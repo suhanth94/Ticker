@@ -46,6 +46,7 @@ Once the app is run, use any REST client like POSTMAN for testing the above API'
 # Improvements 
 
 1. For now, for the third API which is about retreiving instrument specific statistics, it can improved by maintaining a map of dequeues like did for the global dequeue which would be much more quicker in time complexity, assuming that we are okay with having more space complexity.
+2. Can tackle non-blocking situation in better way making it in asynchronous format.
 
 # Overall
 
