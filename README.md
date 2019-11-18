@@ -19,10 +19,11 @@ GET /statistics
 GET /statistics/{instrument_identifier} 
 
 
-Steps to run the application:
+Steps to run the application from IDE:
 
-1. Import project into any editor like Intellij using pom.xml
-2. Run App from Intellij Configuration
+1. Import project into any IDE like Intellij using pom.xml
+2. Run App from Intellij Configuration straightaway
+3. (Or) Go to SolactiveAssignmentApplication File -> Right Click -> Run
 
 From command line:
 
